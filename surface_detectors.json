@@ -1,0 +1,1262 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", 
+"properties": { "Name": "SD0106", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0106\">SD0106<\/a>" }, 
+"geometry": { "type": "Point", "coordinates": [ -113.065816, 39.184031, 1509.020000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0107", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0107\">SD0107<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.065214, 39.195005, 1492.080000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0108", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0108\">SD0108<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.064964, 39.205618, 1482.890000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0109", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0109\">SD0109<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.065115, 39.216564, 1485.370000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0110", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0110\">SD0110<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.065339, 39.227613, 1485.110000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0111", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0111\">SD0111<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.064651, 39.238223, 1470.870000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0112", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0112\">SD0112<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.065119, 39.249011, 1455.820000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0113", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0113\">SD0113<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.064802, 39.260148, 1447.180000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0114", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0114\">SD0114<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.065167, 39.270621, 1452.540000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0115", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0115\">SD0115<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.065139, 39.281856, 1456.190000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0116", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0116\">SD0116<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.065121, 39.292244, 1470.200000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0205", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0205\">SD0205<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.050990, 39.173317, 1437.650000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0206", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0206\">SD0206<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.050344, 39.184773, 1458.360000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0207", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0207\">SD0207<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.051191, 39.194911, 1456.210000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0208", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0208\">SD0208<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.051212, 39.205737, 1456.960000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0209", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0209\">SD0209<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.051202, 39.216842, 1448.510000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0210", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0210\">SD0210<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.051228, 39.227346, 1439.820000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0211", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0211\">SD0211<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.051214, 39.238189, 1438.440000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0212", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0212\">SD0212<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.051242, 39.248974, 1439.380000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0213", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0213\">SD0213<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.051254, 39.259758, 1445.810000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0214", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0214\">SD0214<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.051194, 39.270625, 1441.980000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0215", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0215\">SD0215<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.051195, 39.281488, 1450.790000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0216", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0216\">SD0216<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.051218, 39.292273, 1484.980000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0217", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0217\">SD0217<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.050519, 39.302861, 1550.420000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0304", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0304\">SD0304<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.037643, 39.162455, 1416.110000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0305", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0305\">SD0305<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.037276, 39.173378, 1424.750000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0306", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0306\">SD0306<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.037329, 39.184151, 1435.010000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0307", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0307\">SD0307<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.037322, 39.194949, 1438.950000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0308", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0308\">SD0308<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.037317, 39.205775, 1439.390000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0309", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0309\">SD0309<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.037324, 39.216557, 1432.780000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0310", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0310\">SD0310<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.037306, 39.227346, 1428.910000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0311", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0311\">SD0311<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.037320, 39.238191, 1430.550000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0312", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0312\">SD0312<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.037327, 39.248953, 1434.240000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0313", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0313\">SD0313<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.037437, 39.259903, 1436.600000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0314", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0314\">SD0314<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.037357, 39.270628, 1434.210000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0315", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0315\">SD0315<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.037313, 39.281466, 1438.940000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0316", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0316\">SD0316<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.037314, 39.292260, 1457.450000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0317", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0317\">SD0317<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.037335, 39.303091, 1481.940000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0318", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0318\">SD0318<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.037319, 39.313911, 1486.230000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0403", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0403\">SD0403<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.023534, 39.151770, 1394.860000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0404", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0404\">SD0404<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.022941, 39.162324, 1405.300000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0405", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0405\">SD0405<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.023421, 39.173293, 1415.470000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0406", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0406\">SD0406<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.024340, 39.184771, 1424.140000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0407", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0407\">SD0407<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.023415, 39.194951, 1427.810000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0408", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0408\">SD0408<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.023422, 39.205759, 1435.180000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0409", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0409\">SD0409<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.023445, 39.216591, 1424.450000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0410", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0410\">SD0410<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.023436, 39.227377, 1418.660000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0411", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0411\">SD0411<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.023320, 39.238227, 1423.100000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0412", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0412\">SD0412<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.023537, 39.249062, 1427.320000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0413", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0413\">SD0413<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.023366, 39.259778, 1431.010000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0414", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0414\">SD0414<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.023378, 39.270595, 1422.070000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0415", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0415\">SD0415<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.023412, 39.281464, 1421.920000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0416", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0416\">SD0416<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.023407, 39.291995, 1428.560000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0417", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0417\">SD0417<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.023403, 39.303058, 1435.840000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0418", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0418\">SD0418<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.023409, 39.313850, 1443.500000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0419", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0419\">SD0419<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.023075, 39.324652, 1452.460000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0502", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0502\">SD0502<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009349, 39.140854, 1379.600000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0503", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0503\">SD0503<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009563, 39.151721, 1388.560000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0504", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0504\">SD0504<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009535, 39.162524, 1399.040000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0505", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0505\">SD0505<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.010247, 39.173229, 1406.220000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0506", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0506\">SD0506<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009511, 39.184100, 1405.640000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0507", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0507\">SD0507<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009538, 39.194947, 1404.230000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0508", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0508\">SD0508<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009518, 39.205736, 1402.030000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0509", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0509\">SD0509<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009481, 39.216666, 1406.130000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0510", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0510\">SD0510<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009516, 39.227345, 1410.430000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0511", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0511\">SD0511<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009576, 39.238104, 1416.190000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0512", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0512\">SD0512<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009480, 39.249014, 1419.660000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0512", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0512\">SD0512<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009483, 39.249015, 1419.560000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0513", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0513\">SD0513<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009387, 39.259792, 1415.580000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0514", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0514\">SD0514<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009528, 39.270637, 1410.300000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0515", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0515\">SD0515<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009504, 39.281484, 1412.970000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0516", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0516\">SD0516<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009521, 39.292264, 1419.340000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0517", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0517\">SD0517<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009474, 39.303044, 1425.710000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0518", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0518\">SD0518<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009497, 39.313906, 1438.900000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0519", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0519\">SD0519<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009646, 39.324569, 1451.400000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0520", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0520\">SD0520<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009460, 39.335491, 1457.870000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0601", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0601\">SD0601<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995663, 39.129713, 1370.940000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0602", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0602\">SD0602<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995779, 39.140842, 1376.760000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0603", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0603\">SD0603<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995854, 39.152282, 1383.840000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0604", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0604\">SD0604<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995627, 39.162410, 1387.240000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0605", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0605\">SD0605<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995661, 39.173300, 1390.750000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0606", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0606\">SD0606<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995671, 39.184074, 1396.070000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0607", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0607\">SD0607<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995619, 39.194932, 1398.360000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0608", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0608\">SD0608<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995606, 39.205754, 1395.130000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0609", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0609\">SD0609<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995617, 39.216540, 1398.610000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0610", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0610\">SD0610<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995620, 39.227352, 1404.360000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0611", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0611\">SD0611<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995614, 39.238196, 1407.910000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0612", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0612\">SD0612<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995614, 39.248990, 1415.320000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0613", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0613\">SD0613<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995602, 39.259829, 1405.120000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0614", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0614\">SD0614<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995853, 39.270298, 1403.290000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0615", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0615\">SD0615<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995594, 39.281419, 1408.540000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0616", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0616\">SD0616<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995564, 39.292248, 1415.190000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0617", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0617\">SD0617<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995608, 39.303042, 1416.840000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0618", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0618\">SD0618<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995572, 39.313787, 1424.440000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0619", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0619\">SD0619<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995533, 39.324667, 1434.790000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0620", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0620\">SD0620<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995524, 39.335570, 1447.740000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0621", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0621\">SD0621<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995515, 39.346227, 1465.390000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0701", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0701\">SD0701<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981808, 39.130063, 1370.310000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0702", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0702\">SD0702<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981769, 39.140963, 1371.390000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0703", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0703\">SD0703<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981768, 39.151673, 1380.320000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0704", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0704\">SD0704<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981776, 39.162522, 1387.130000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0705", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0705\">SD0705<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981805, 39.173248, 1390.740000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0706", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0706\">SD0706<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981768, 39.184081, 1400.720000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0707", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0707\">SD0707<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981754, 39.194949, 1389.250000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0708", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0708\">SD0708<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981655, 39.205761, 1389.320000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0709", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0709\">SD0709<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981702, 39.216538, 1392.800000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0710", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0710\">SD0710<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981745, 39.227346, 1394.780000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0711", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0711\">SD0711<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981704, 39.238151, 1400.110000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0712", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0712\">SD0712<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.982764, 39.248537, 1405.430000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0713", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0713\">SD0713<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981688, 39.259811, 1399.510000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0714", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0714\">SD0714<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981674, 39.270637, 1400.480000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0715", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0715\">SD0715<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981691, 39.281482, 1409.460000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0716", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0716\">SD0716<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981645, 39.292274, 1407.680000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0717", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0717\">SD0717<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981625, 39.303086, 1408.640000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0718", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0718\">SD0718<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981637, 39.313893, 1413.350000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0719", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0719\">SD0719<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981573, 39.324695, 1422.660000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0720", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0720\">SD0720<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981620, 39.335478, 1434.900000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0721", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0721\">SD0721<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981646, 39.346372, 1450.930000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0722", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0722\">SD0722<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981603, 39.357138, 1471.890000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0801", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0801\">SD0801<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967945, 39.129959, 1366.350000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0802", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0802\">SD0802<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967821, 39.140944, 1368.310000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0803", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0803\">SD0803<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967902, 39.151647, 1379.390000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0804", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0804\">SD0804<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967875, 39.162557, 1385.780000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0805", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0805\">SD0805<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967862, 39.173286, 1380.180000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0806", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0806\">SD0806<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.968110, 39.183687, 1392.380000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0807", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0807\">SD0807<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967865, 39.194917, 1382.150000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0808", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0808\">SD0808<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967813, 39.205723, 1382.260000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0809", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0809\">SD0809<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967817, 39.216546, 1384.260000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0810", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0810\">SD0810<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967884, 39.227326, 1389.030000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0811", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0811\">SD0811<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967778, 39.238337, 1389.110000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0812", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0812\">SD0812<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967745, 39.249067, 1388.790000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0813", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0813\">SD0813<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967821, 39.259784, 1391.090000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0814", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0814\">SD0814<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967836, 39.270672, 1399.360000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0815", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0815\">SD0815<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967753, 39.281442, 1398.310000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0816", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0816\">SD0816<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967740, 39.292265, 1401.270000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0817", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0817\">SD0817<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967771, 39.303106, 1401.510000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0818", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0818\">SD0818<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967718, 39.313884, 1401.550000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0819", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0819\">SD0819<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967724, 39.324670, 1410.570000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0820", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0820\">SD0820<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967740, 39.335491, 1418.540000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0821", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0821\">SD0821<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967664, 39.346235, 1429.670000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0822", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0822\">SD0822<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967688, 39.357096, 1454.860000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0823", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0823\">SD0823<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967416, 39.367816, 1489.560000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0901", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0901\">SD0901<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.954045, 39.130010, 1361.830000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0902", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0902\">SD0902<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.954038, 39.140843, 1367.440000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0903", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0903\">SD0903<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.954003, 39.151674, 1368.580000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0904", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0904\">SD0904<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.950087, 39.162904, 1369.590000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0905", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0905\">SD0905<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.954284, 39.172706, 1376.510000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0906", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0906\">SD0906<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953975, 39.184107, 1374.700000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0907", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0907\">SD0907<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953939, 39.194937, 1376.170000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0908", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0908\">SD0908<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953744, 39.205601, 1376.280000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0909", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0909\">SD0909<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953974, 39.216551, 1379.140000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0910", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0910\">SD0910<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953916, 39.227338, 1382.340000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0911", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0911\">SD0911<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953918, 39.238188, 1380.990000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0912", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0912\">SD0912<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953886, 39.249010, 1381.620000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0913", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0913\">SD0913<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953906, 39.259811, 1384.670000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0914", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0914\">SD0914<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953895, 39.270586, 1385.040000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0915", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0915\">SD0915<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953860, 39.281427, 1393.090000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0916", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0916\">SD0916<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953797, 39.292232, 1391.120000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0917", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0917\">SD0917<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953823, 39.303058, 1391.180000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0918", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0918\">SD0918<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953830, 39.313889, 1389.730000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0919", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0919\">SD0919<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953814, 39.324664, 1395.600000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0920", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0920\">SD0920<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953771, 39.335479, 1403.530000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0921", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0921\">SD0921<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953739, 39.346308, 1413.040000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0922", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0922\">SD0922<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953725, 39.357121, 1434.040000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0923", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0923\">SD0923<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953739, 39.367904, 1449.540000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0924", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0924\">SD0924<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953748, 39.378818, 1467.330000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1001", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1001\">SD1001<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.938577, 39.131300, 1366.430000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1002", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1002\">SD1002<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.940192, 39.140924, 1367.680000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1003", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1003\">SD1003<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.940122, 39.152134, 1368.780000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1004", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1004\">SD1004<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.940028, 39.162398, 1368.170000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1005", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1005\">SD1005<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.940049, 39.173270, 1369.820000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1006", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1006\">SD1006<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.940092, 39.184086, 1372.340000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1007", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1007\">SD1007<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.940090, 39.195064, 1372.740000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1008", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1008\">SD1008<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.940086, 39.205716, 1373.310000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1009", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1009\">SD1009<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.940012, 39.216513, 1375.090000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1010", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1010\">SD1010<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.940072, 39.227398, 1377.630000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1011", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1011\">SD1011<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.939988, 39.238191, 1378.610000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1012", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1012\">SD1012<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.940090, 39.248996, 1378.230000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1013", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1013\">SD1013<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.939976, 39.259808, 1378.680000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1014", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1014\">SD1014<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.939967, 39.270615, 1379.420000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1015", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1015\">SD1015<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.939892, 39.281457, 1385.070000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1016", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1016\">SD1016<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.939888, 39.292296, 1385.480000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1017", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1017\">SD1017<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.939902, 39.303009, 1383.140000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1018", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1018\">SD1018<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.939896, 39.313812, 1381.910000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1018", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1018\">SD1018<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.939892, 39.313815, 1382.280000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1019", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1019\">SD1019<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.939835, 39.324701, 1381.650000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1020", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1020\">SD1020<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.939887, 39.335493, 1387.770000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1021", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1021\">SD1021<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.939883, 39.346335, 1403.520000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1022", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1022\">SD1022<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.939814, 39.357074, 1412.120000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1023", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1023\">SD1023<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.940020, 39.367859, 1430.460000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1024", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1024\">SD1024<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.939794, 39.378738, 1440.840000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1025", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1025\">SD1025<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.939887, 39.389528, 1449.020000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1101", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1101\">SD1101<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926259, 39.130009, 1367.200000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1102", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1102\">SD1102<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.928407, 39.139072, 1367.960000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1102", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1102\">SD1102<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.928411, 39.139077, 1367.740000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1103", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1103\">SD1103<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926264, 39.151694, 1368.690000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1104", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1104\">SD1104<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926244, 39.162449, 1368.070000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1105", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1105\">SD1105<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926298, 39.173347, 1368.330000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1106", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1106\">SD1106<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926187, 39.184066, 1368.840000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1107", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1107\">SD1107<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926169, 39.194901, 1370.820000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1108", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1108\">SD1108<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926117, 39.205712, 1371.310000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1109", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1109\">SD1109<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926090, 39.216543, 1371.350000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1110", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1110\">SD1110<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926084, 39.227315, 1372.360000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1111", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1111\">SD1111<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926099, 39.238141, 1375.250000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1112", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1112\">SD1112<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926087, 39.248985, 1374.960000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1113", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1113\">SD1113<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926034, 39.259791, 1375.210000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1114", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1114\">SD1114<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926050, 39.270617, 1376.330000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1114", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1114\">SD1114<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926049, 39.270622, 1376.160000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1115", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1115\">SD1115<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926018, 39.281411, 1377.260000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1116", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1116\">SD1116<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926019, 39.292251, 1379.070000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1117", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1117\">SD1117<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.925999, 39.303060, 1375.330000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1118", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1118\">SD1118<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.925943, 39.314023, 1375.350000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1119", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1119\">SD1119<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.925962, 39.324678, 1374.830000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1120", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1120\">SD1120<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926001, 39.335509, 1376.630000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1121", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1121\">SD1121<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.925940, 39.346236, 1385.430000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1122", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1122\">SD1122<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.925944, 39.357076, 1393.610000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1123", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1123\">SD1123<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.925827, 39.367958, 1401.420000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1124", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1124\">SD1124<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.925881, 39.378736, 1415.810000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1125", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1125\">SD1125<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.925903, 39.389554, 1426.270000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1126", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1126\">SD1126<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.925750, 39.400328, 1439.270000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1201", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1201\">SD1201<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912351, 39.130053, 1368.700000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1202", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1202\">SD1202<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.909979, 39.139686, 1369.730000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1203", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1203\">SD1203<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912353, 39.151653, 1369.390000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1204", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1204\">SD1204<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912209, 39.162481, 1367.680000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1205", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1205\">SD1205<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912292, 39.173015, 1368.460000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1206", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1206\">SD1206<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912238, 39.184054, 1369.550000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1207", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1207\">SD1207<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912285, 39.194877, 1370.200000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1208", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1208\">SD1208<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912177, 39.205662, 1370.570000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1209", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1209\">SD1209<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912235, 39.216489, 1371.430000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1210", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1210\">SD1210<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912233, 39.227292, 1378.150000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1211", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1211\">SD1211<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912171, 39.238172, 1374.790000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1212", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1212\">SD1212<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912200, 39.248931, 1373.500000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1213", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1213\">SD1213<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912162, 39.259792, 1373.060000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1214", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1214\">SD1214<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912104, 39.270591, 1376.980000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1215", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1215\">SD1215<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912095, 39.281377, 1372.820000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1216", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1216\">SD1216<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912084, 39.292277, 1371.990000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1217", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1217\">SD1217<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912095, 39.302989, 1372.200000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1218", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1218\">SD1218<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912048, 39.313856, 1372.600000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1219", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1219\">SD1219<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.911968, 39.324659, 1372.480000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1220", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1220\">SD1220<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.911967, 39.335453, 1372.480000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1221", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1221\">SD1221<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.912026, 39.346326, 1374.070000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1222", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1222\">SD1222<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.911851, 39.357086, 1381.120000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1223", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1223\">SD1223<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.911931, 39.367947, 1388.620000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1224", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1224\">SD1224<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.911883, 39.378783, 1399.120000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1225", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1225\">SD1225<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.911949, 39.389527, 1410.280000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1226", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1226\">SD1226<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.911934, 39.400360, 1421.710000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1301", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1301\">SD1301<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898637, 39.129861, 1368.790000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1302", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1302\">SD1302<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898485, 39.140369, 1371.200000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1303", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1303\">SD1303<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898469, 39.151588, 1369.600000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1304", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1304\">SD1304<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898432, 39.162442, 1369.650000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1305", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1305\">SD1305<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898660, 39.173161, 1369.720000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1306", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1306\">SD1306<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.897936, 39.184140, 1370.740000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1307", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1307\">SD1307<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.897951, 39.195053, 1369.690000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1308", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1308\">SD1308<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898381, 39.205697, 1370.320000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1309", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1309\">SD1309<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898345, 39.216436, 1370.590000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1310", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1310\">SD1310<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898341, 39.227284, 1370.870000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1311", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1311\">SD1311<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898237, 39.238123, 1371.990000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1312", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1312\">SD1312<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898257, 39.248883, 1372.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1313", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1313\">SD1313<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898279, 39.259736, 1372.160000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1314", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1314\">SD1314<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898191, 39.270554, 1371.490000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1315", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1315\">SD1315<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898204, 39.281384, 1370.800000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1316", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1316\">SD1316<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898177, 39.292209, 1371.350000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1317", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1317\">SD1317<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898135, 39.303033, 1371.520000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1318", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1318\">SD1318<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898129, 39.313829, 1371.970000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1319", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1319\">SD1319<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898107, 39.324597, 1372.050000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1320", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1320\">SD1320<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898057, 39.335550, 1370.160000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1321", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1321\">SD1321<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898081, 39.346266, 1369.970000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1322", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1322\">SD1322<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898111, 39.357060, 1370.410000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1323", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1323\">SD1323<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898072, 39.367950, 1377.830000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1324", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1324\">SD1324<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.897927, 39.378700, 1386.740000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1325", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1325\">SD1325<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.898034, 39.389536, 1396.640000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1326", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1326\">SD1326<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.897839, 39.400335, 1403.970000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1327", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1327\">SD1327<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.896520, 39.409918, 1410.730000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1401", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1401\">SD1401<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884599, 39.129949, 1372.250000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1402", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1402\">SD1402<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884581, 39.140326, 1371.560000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1403", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1403\">SD1403<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884569, 39.152702, 1369.860000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1404", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1404\">SD1404<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884539, 39.164178, 1368.770000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1405", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1405\">SD1405<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884781, 39.172799, 1369.930000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1406", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1406\">SD1406<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884551, 39.183986, 1370.580000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1407", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1407\">SD1407<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884498, 39.194841, 1370.470000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1408", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1408\">SD1408<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884165, 39.205474, 1370.650000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1409", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1409\">SD1409<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884330, 39.216593, 1370.620000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1410", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1410\">SD1410<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884487, 39.227096, 1371.950000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1411", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1411\">SD1411<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884401, 39.238132, 1370.290000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1412", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1412\">SD1412<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884104, 39.248788, 1370.520000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1413", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1413\">SD1413<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.882626, 39.260908, 1369.810000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1414", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1414\">SD1414<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884331, 39.270578, 1369.760000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1415", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1415\">SD1415<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884226, 39.281391, 1369.580000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1416", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1416\">SD1416<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884280, 39.292137, 1369.340000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1417", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1417\">SD1417<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884299, 39.303005, 1369.170000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1418", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1418\">SD1418<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884271, 39.313780, 1369.810000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1419", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1419\">SD1419<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884359, 39.324718, 1368.300000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1420", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1420\">SD1420<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884239, 39.335502, 1368.300000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1421", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1421\">SD1421<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884094, 39.346257, 1369.080000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1422", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1422\">SD1422<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884111, 39.357085, 1370.540000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1423", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1423\">SD1423<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884146, 39.367950, 1372.840000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1424", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1424\">SD1424<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884121, 39.378773, 1378.580000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1425", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1425\">SD1425<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.884053, 39.389501, 1385.910000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1426", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1426\">SD1426<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.883973, 39.400271, 1399.940000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1427", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1427\">SD1427<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.883865, 39.410959, 1420.730000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1428", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1428\">SD1428<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.883882, 39.421718, 1453.810000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1501", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1501\">SD1501<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870701, 39.129926, 1377.460000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1502", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1502\">SD1502<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870754, 39.140743, 1371.560000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1503", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1503\">SD1503<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.872145, 39.150737, 1370.400000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1504", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1504\">SD1504<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870354, 39.162244, 1371.100000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1505", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1505\">SD1505<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870414, 39.173227, 1370.760000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1506", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1506\">SD1506<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870614, 39.184043, 1370.360000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1507", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1507\">SD1507<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870571, 39.194847, 1370.620000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1508", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1508\">SD1508<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870676, 39.205750, 1370.630000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1509", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1509\">SD1509<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870168, 39.216086, 1370.560000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1510", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1510\">SD1510<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870520, 39.227241, 1369.670000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1511", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1511\">SD1511<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870459, 39.238042, 1370.240000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1512", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1512\">SD1512<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870431, 39.248885, 1369.790000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1513", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1513\">SD1513<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870935, 39.259888, 1369.230000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1513", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1513\">SD1513<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.871166, 39.259955, 1369.480000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1514", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1514\">SD1514<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870424, 39.270524, 1369.130000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1515", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1515\">SD1515<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870170, 39.281326, 1369.580000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1516", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1516\">SD1516<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870319, 39.292170, 1369.930000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1517", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1517\">SD1517<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870244, 39.303051, 1368.980000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1518", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1518\">SD1518<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870224, 39.313786, 1369.370000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1519", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1519\">SD1519<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.873422, 39.324542, 1368.920000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1520", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1520\">SD1520<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870174, 39.335392, 1369.650000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1521", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1521\">SD1521<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870278, 39.346031, 1369.460000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1522", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1522\">SD1522<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870074, 39.356990, 1371.810000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1523", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1523\">SD1523<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870184, 39.367859, 1374.860000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1524", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1524\">SD1524<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870364, 39.378476, 1378.590000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1525", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1525\">SD1525<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870195, 39.389499, 1383.970000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1526", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1526\">SD1526<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870042, 39.400223, 1393.600000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1527", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1527\">SD1527<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870116, 39.411146, 1441.750000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1528", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1528\">SD1528<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.870056, 39.421854, 1448.220000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1601", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1601\">SD1601<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856871, 39.129906, 1375.120000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1602", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1602\">SD1602<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856830, 39.140745, 1372.550000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1603", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1603\">SD1603<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856789, 39.151536, 1370.140000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1604", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1604\">SD1604<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856748, 39.162413, 1370.930000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1605", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1605\">SD1605<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856759, 39.173175, 1369.060000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1606", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1606\">SD1606<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856711, 39.184002, 1370.230000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1607", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1607\">SD1607<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856681, 39.194786, 1370.950000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1608", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1608\">SD1608<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856702, 39.205633, 1370.170000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1609", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1609\">SD1609<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856649, 39.216384, 1369.680000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1610", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1610\">SD1610<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.858359, 39.227313, 1372.400000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1611", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1611\">SD1611<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856808, 39.237767, 1370.910000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1612", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1612\">SD1612<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856575, 39.248850, 1371.130000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1613", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1613\">SD1613<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856546, 39.257981, 1369.170000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1613", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1613\">SD1613<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856541, 39.257982, 1369.300000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1614", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1614\">SD1614<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856533, 39.270497, 1369.900000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1615", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1615\">SD1615<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856435, 39.281313, 1368.810000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1616", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1616\">SD1616<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856442, 39.292154, 1370.010000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1617", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1617\">SD1617<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856310, 39.302881, 1369.610000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1618", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1618\">SD1618<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856406, 39.313838, 1370.340000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1619", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1619\">SD1619<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856422, 39.327509, 1369.980000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1620", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1620\">SD1620<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856381, 39.335246, 1371.990000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1621", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1621\">SD1621<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856337, 39.346147, 1374.650000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1622", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1622\">SD1622<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856257, 39.359503, 1372.110000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1623", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1623\">SD1623<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856186, 39.367844, 1375.200000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1624", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1624\">SD1624<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856236, 39.378686, 1377.130000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1625", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1625\">SD1625<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856215, 39.389423, 1383.250000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1626", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1626\">SD1626<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856190, 39.400294, 1391.900000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1627", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1627\">SD1627<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.856826, 39.410907, 1418.480000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1628", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1628\">SD1628<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.859149, 39.420918, 1433.540000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1701", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1701\">SD1701<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842978, 39.129870, 1374.220000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1702", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1702\">SD1702<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842934, 39.140704, 1373.520000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1703", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1703\">SD1703<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842960, 39.151541, 1371.200000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1704", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1704\">SD1704<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842868, 39.162375, 1369.700000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1705", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1705\">SD1705<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842919, 39.173195, 1369.580000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1706", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1706\">SD1706<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842861, 39.183908, 1369.310000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1707", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1707\">SD1707<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842775, 39.194784, 1372.120000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1708", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1708\">SD1708<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842786, 39.205583, 1371.810000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1709", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1709\">SD1709<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842652, 39.216396, 1371.460000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1710", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1710\">SD1710<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842931, 39.227323, 1371.570000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1711", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1711\">SD1711<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842182, 39.237821, 1372.090000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1712", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1712\">SD1712<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842582, 39.248836, 1369.600000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1713", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1713\">SD1713<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.840275, 39.259823, 1369.730000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1713", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1713\">SD1713<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.840811, 39.260787, 1371.930000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1714", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1714\">SD1714<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842579, 39.270499, 1369.550000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1715", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1715\">SD1715<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842503, 39.281360, 1370.680000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1716", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1716\">SD1716<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842464, 39.292119, 1370.560000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1717", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1717\">SD1717<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842488, 39.302937, 1370.270000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1718", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1718\">SD1718<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842450, 39.313755, 1370.720000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1719", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1719\">SD1719<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842338, 39.324450, 1371.560000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1720", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1720\">SD1720<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842349, 39.335385, 1371.550000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1721", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1721\">SD1721<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842378, 39.346167, 1371.900000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1722", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1722\">SD1722<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842362, 39.357011, 1372.600000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1723", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1723\">SD1723<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842350, 39.367759, 1374.270000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1724", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1724\">SD1724<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842529, 39.378626, 1378.690000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1725", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1725\">SD1725<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842254, 39.389321, 1382.540000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1726", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1726\">SD1726<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842173, 39.400229, 1385.990000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1727", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1727\">SD1727<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842160, 39.411023, 1388.170000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1728", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1728\">SD1728<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.842205, 39.421833, 1400.240000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1801", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1801\">SD1801<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.829059, 39.129881, 1374.160000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1802", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1802\">SD1802<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.829044, 39.140686, 1372.830000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1803", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1803\">SD1803<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.829044, 39.151497, 1372.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1804", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1804\">SD1804<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.829005, 39.162360, 1368.360000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1805", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1805\">SD1805<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828984, 39.173084, 1370.710000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1806", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1806\">SD1806<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.824581, 39.181427, 1369.360000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1807", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1807\">SD1807<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828975, 39.194806, 1371.800000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1808", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1808\">SD1808<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828817, 39.205571, 1371.110000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1809", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1809\">SD1809<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828755, 39.216345, 1371.190000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1810", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1810\">SD1810<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828784, 39.227163, 1372.600000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1811", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1811\">SD1811<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828793, 39.238042, 1370.920000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1812", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1812\">SD1812<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.831205, 39.251254, 1371.530000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1813", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1813\">SD1813<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828646, 39.259940, 1371.750000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1814", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1814\">SD1814<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828667, 39.270428, 1370.670000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1815", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1815\">SD1815<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828581, 39.281304, 1371.730000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1816", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1816\">SD1816<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828629, 39.292029, 1371.270000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1817", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1817\">SD1817<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828614, 39.302861, 1372.050000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1818", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1818\">SD1818<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828502, 39.313744, 1372.520000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1819", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1819\">SD1819<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828491, 39.324534, 1372.280000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1820", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1820\">SD1820<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828497, 39.335316, 1372.820000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1821", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1821\">SD1821<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.829497, 39.347044, 1371.940000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1822", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1822\">SD1822<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828619, 39.356477, 1373.100000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1823", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1823\">SD1823<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828468, 39.367335, 1371.720000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1824", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1824\">SD1824<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828214, 39.378507, 1374.750000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1824", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1824\">SD1824<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828216, 39.378509, 1374.920000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1825", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1825\">SD1825<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828294, 39.389540, 1378.780000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1825", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1825\">SD1825<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828296, 39.389547, 1378.480000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1826", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1826\">SD1826<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828333, 39.400274, 1385.120000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1827", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1827\">SD1827<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828309, 39.411135, 1382.270000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1828", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1828\">SD1828<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.828172, 39.421801, 1380.780000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1902", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1902\">SD1902<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.815176, 39.140673, 1374.190000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1903", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1903\">SD1903<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.815153, 39.151431, 1374.170000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1904", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1904\">SD1904<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.815123, 39.162294, 1369.280000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1905", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1905\">SD1905<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814519, 39.173513, 1372.400000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1906", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1906\">SD1906<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.815017, 39.183899, 1369.510000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1907", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1907\">SD1907<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.815016, 39.194746, 1369.210000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1908", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1908\">SD1908<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.813592, 39.205001, 1369.950000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1909", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1909\">SD1909<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814924, 39.216394, 1372.350000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1909", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1909\">SD1909<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814935, 39.216396, 1372.610000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1910", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1910\">SD1910<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814850, 39.227162, 1373.260000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1911", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1911\">SD1911<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814891, 39.238017, 1371.640000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1912", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1912\">SD1912<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814481, 39.248808, 1370.370000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1913", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1913\">SD1913<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814753, 39.259634, 1370.740000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1914", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1914\">SD1914<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814754, 39.270434, 1370.030000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1914", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1914\">SD1914<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814889, 39.270734, 1371.100000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1915", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1915\">SD1915<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814765, 39.281240, 1371.430000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1916", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1916\">SD1916<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814771, 39.292016, 1370.660000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1917", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1917\">SD1917<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814687, 39.302695, 1372.130000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1918", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1918\">SD1918<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814606, 39.313653, 1372.240000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1919", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1919\">SD1919<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814693, 39.324493, 1372.580000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1920", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1920\">SD1920<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814677, 39.334987, 1373.180000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1921", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1921\">SD1921<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814494, 39.346138, 1373.020000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1922", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1922\">SD1922<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814382, 39.356571, 1372.350000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1923", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1923\">SD1923<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814499, 39.367766, 1372.450000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1924", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1924\">SD1924<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814408, 39.378507, 1373.370000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1925", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1925\">SD1925<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814666, 39.389272, 1374.090000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1926", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1926\">SD1926<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814302, 39.400153, 1378.640000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1927", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1927\">SD1927<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.814296, 39.410927, 1377.190000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2004", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2004\">SD2004<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.801233, 39.162253, 1372.310000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2004", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2004\">SD2004<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.801234, 39.162254, 1373.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2005", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2005\">SD2005<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.801083, 39.173019, 1371.110000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2006", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2006\">SD2006<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.801136, 39.183863, 1369.770000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2007", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2007\">SD2007<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.801089, 39.194664, 1369.300000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2008", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2008\">SD2008<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.801081, 39.205493, 1369.620000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2009", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2009\">SD2009<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.801019, 39.216360, 1371.880000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2010", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2010\">SD2010<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.800962, 39.227051, 1370.170000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2011", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2011\">SD2011<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.800941, 39.237931, 1370.640000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2012", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2012\">SD2012<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.800928, 39.248780, 1371.240000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2013", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2013\">SD2013<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.800843, 39.258322, 1372.430000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2013", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2013\">SD2013<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.800954, 39.258642, 1370.470000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2014", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2014\">SD2014<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.801449, 39.270654, 1373.520000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2015", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2015\">SD2015<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.800808, 39.281239, 1371.250000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2016", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2016\">SD2016<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.800810, 39.292063, 1372.830000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2017", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2017\">SD2017<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.800760, 39.302811, 1371.870000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2018", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2018\">SD2018<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.800682, 39.313669, 1372.180000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2019", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2019\">SD2019<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.800684, 39.324511, 1372.940000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2020", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2020\">SD2020<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.800845, 39.335345, 1373.070000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2021", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2021\">SD2021<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.800323, 39.346097, 1373.130000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2022", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2022\">SD2022<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.800746, 39.356184, 1373.780000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2023", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2023\">SD2023<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.800555, 39.367712, 1373.600000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2024", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2024\">SD2024<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.800518, 39.378539, 1375.740000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2025", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2025\">SD2025<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.800887, 39.389849, 1375.150000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2105", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2105\">SD2105<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.787226, 39.173048, 1369.390000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2106", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2106\">SD2106<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.787271, 39.183819, 1369.300000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2107", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2107\">SD2107<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.787237, 39.194722, 1369.370000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2108", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2108\">SD2108<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.787175, 39.205451, 1370.740000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2109", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2109\">SD2109<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.787130, 39.216299, 1371.740000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2110", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2110\">SD2110<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.786950, 39.227083, 1371.220000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2111", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2111\">SD2111<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.787018, 39.237953, 1373.680000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2112", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2112\">SD2112<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.787220, 39.248979, 1372.980000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2113", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2113\">SD2113<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.786967, 39.259549, 1372.170000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2114", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2114\">SD2114<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.786957, 39.270369, 1371.330000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2115", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2115\">SD2115<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.787545, 39.281323, 1372.580000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2116", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2116\">SD2116<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.786888, 39.292012, 1372.420000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2117", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2117\">SD2117<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.786827, 39.302840, 1371.810000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2118", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2118\">SD2118<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.786790, 39.313679, 1372.960000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2119", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2119\">SD2119<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.786804, 39.324515, 1373.550000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2120", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2120\">SD2120<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.786719, 39.335297, 1373.480000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2121", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2121\">SD2121<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.786662, 39.345520, 1373.770000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2122", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2122\">SD2122<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.786416, 39.356830, 1375.440000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2123", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2123\">SD2123<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.785457, 39.366851, 1376.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2206", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2206\">SD2206<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.773328, 39.183786, 1378.940000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2207", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2207\">SD2207<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.771622, 39.194671, 1440.020000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2208", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2208\">SD2208<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.772197, 39.203185, 1453.430000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2209", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2209\">SD2209<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.773226, 39.216314, 1373.570000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2210", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2210\">SD2210<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.773177, 39.227049, 1370.690000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2211", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2211\">SD2211<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.773138, 39.237935, 1373.320000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2212", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2212\">SD2212<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.773118, 39.248709, 1370.850000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2212", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2212\">SD2212<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.774619, 39.249255, 1372.160000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2213", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2213\">SD2213<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.773066, 39.259512, 1373.940000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2214", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2214\">SD2214<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.773031, 39.270328, 1372.940000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2214", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2214\">SD2214<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.773038, 39.270331, 1372.210000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2215", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2215\">SD2215<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.772319, 39.281177, 1373.670000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2216", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2216\">SD2216<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.772960, 39.291976, 1372.110000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2217", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2217\">SD2217<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.772913, 39.302779, 1372.680000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2218", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2218\">SD2218<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.772914, 39.313573, 1372.950000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2219", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2219\">SD2219<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.773036, 39.324483, 1374.140000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2220", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2220\">SD2220<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.772702, 39.335214, 1374.650000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2307", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2307\">SD2307<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.759407, 39.194581, 1441.200000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2308", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2308\">SD2308<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.759351, 39.205448, 1442.350000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2309", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2309\">SD2309<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.760654, 39.217246, 1486.340000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2310", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2310\">SD2310<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.759826, 39.227681, 1380.200000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2311", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2311\">SD2311<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.759231, 39.237939, 1372.960000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2312", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2312\">SD2312<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.756459, 39.248719, 1377.640000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2312", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2312\">SD2312<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.756450, 39.248722, 1377.130000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2313", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2313\">SD2313<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.759089, 39.259521, 1376.690000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2314", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2314\">SD2314<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.759128, 39.269878, 1372.040000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2315", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2315\">SD2315<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.759036, 39.281123, 1372.360000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2316", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2316\">SD2316<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.759069, 39.291991, 1372.870000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2317", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2317\">SD2317<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.758993, 39.302729, 1373.530000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2408", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2408\">SD2408<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.745461, 39.205350, 1433.050000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2409", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2409\">SD2409<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.745426, 39.216253, 1432.780000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2410", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2410\">SD2410<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.748825, 39.227820, 1472.660000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2411", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2411\">SD2411<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.745339, 39.237857, 1438.560000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD2412", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD2412\">SD2412<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.745306, 39.248662, 1374.130000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDA01", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDA01\">SDA01<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.001770, 39.460150, 1588.430000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDA02", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDA02\">SDA02<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.997100, 39.458950, 1582.730000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDA03", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDA03\">SDA03<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.992350, 39.458720, 1572.970000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDA04", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDA04\">SDA04<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.988020, 39.458780, 1566.790000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDA05", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDA05\">SDA05<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.983200, 39.461280, 1561.560000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDA06", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDA06\">SDA06<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.979720, 39.463770, 1555.350000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDA07", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDA07\">SDA07<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.977100, 39.466980, 1558.760000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDB01", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDB01\">SDB01<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.004740, 39.457080, 1591.750000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDB02", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDB02\">SDB02<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.000240, 39.455650, 1583.660000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDB03", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDB03\">SDB03<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.995480, 39.454980, 1577.300000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDB04", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDB04\">SDB04<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.990640, 39.455090, 1565.550000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDB05", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDB05\">SDB05<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.985920, 39.455970, 1558.810000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDB06", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDB06\">SDB06<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.981550, 39.457600, 1556.250000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDB07", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDB07\">SDB07<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.977720, 39.459900, 1554.640000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDB08C", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDB08C\">SDB08C<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.974140, 39.462970, 1548.770000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDB09", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDB09\">SDB09<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.972300, 39.466080, 1551.680000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDC01", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDC01\">SDC01<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.007790, 39.454090, 1604.850000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDC02", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDC02\">SDC02<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.003350, 39.452860, 1598.200000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDC03", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDC03\">SDC03<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.999440, 39.451690, 1585.390000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDC04", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDC04\">SDC04<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.993900, 39.451150, 1574.040000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDC05", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDC05\">SDC05<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.988450, 39.452110, 1561.530000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDC06", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDC06\">SDC06<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.984550, 39.452720, 1554.930000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDC07", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDC07\">SDC07<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.979960, 39.453950, 1546.470000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDC08", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDC08\">SDC08<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.975820, 39.456160, 1547.780000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDC09", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDC09\">SDC09<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.972430, 39.458750, 1547.570000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDC10", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDC10\">SDC10<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.969520, 39.461930, 1538.290000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDC11", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDC11\">SDC11<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967480, 39.465260, 1540.310000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDD01", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDD01\">SDD01<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.010660, 39.451360, 1625.240000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDD02", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDD02\">SDD02<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.006410, 39.449350, 1617.140000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDD03", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDD03\">SDD03<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.001740, 39.448150, 1598.100000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDD04", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDD04\">SDD04<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.996880, 39.447490, 1592.680000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDD05", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDD05\">SDD05<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.992280, 39.447400, 1574.880000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDD06", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDD06\">SDD06<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.987010, 39.447450, 1566.560000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDD07", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDD07\">SDD07<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.982640, 39.448860, 1555.860000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDD08", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDD08\">SDD08<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.978130, 39.449990, 1544.950000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDD09", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDD09\">SDD09<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.973990, 39.452470, 1536.300000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDD10", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDD10\">SDD10<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.970510, 39.454800, 1536.780000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDD11", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDD11\">SDD11<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967290, 39.457690, 1535.100000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDD12", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDD12\">SDD12<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.964670, 39.460920, 1530.800000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDD13", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDD13\">SDD13<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.962690, 39.464420, 1529.440000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDE02", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDE02\">SDE02<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.009890, 39.444180, 1634.080000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDE03", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDE03\">SDE03<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.001740, 39.442340, 1600.660000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDE04", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDE04\">SDE04<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.994430, 39.441170, 1598.540000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDE05", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDE05\">SDE05<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.986350, 39.441950, 1567.780000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDE06", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDE06\">SDE06<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.980190, 39.443530, 1556.190000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDE07", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDE07\">SDE07<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.973560, 39.445920, 1542.470000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDE08", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDE08\">SDE08<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.967710, 39.448730, 1530.220000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDE09", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDE09\">SDE09<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.962530, 39.453210, 1521.420000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDE10", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDE10\">SDE10<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.958470, 39.457910, 1520.920000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDE11", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDE11\">SDE11<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.955560, 39.463110, 1515.420000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDF03", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDF03\">SDF03<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -113.008940, 39.437540, 1646.230000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDF04", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDF04\">SDF04<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.996340, 39.437430, 1608.960000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDF05", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDF05\">SDF05<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.990380, 39.435000, 1582.800000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDF06", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDF06\">SDF06<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.984860, 39.436510, 1560.880000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDF07", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDF07\">SDF07<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.977730, 39.438200, 1555.870000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDF08", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDF08\">SDF08<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.971060, 39.440510, 1534.980000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDF09", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDF09\">SDF09<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.964930, 39.443590, 1522.190000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDF10", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDF10\">SDF10<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.959470, 39.447350, 1516.340000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDF11", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDF11\">SDF11<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.954860, 39.451690, 1509.580000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDF12", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDF12\">SDF12<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.951130, 39.456570, 1509.770000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDF13", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDF13\">SDF13<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.948420, 39.461820, 1505.930000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDG08", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDG08\">SDG08<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.971660, 39.434120, 1536.160000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDG09", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDG09\">SDG09<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.965400, 39.436500, 1527.760000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDG10", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDG10\">SDG10<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.959420, 39.439740, 1517.640000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDG11", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDG11\">SDG11<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.953860, 39.443650, 1505.910000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDG12", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDG12\">SDG12<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.949370, 39.447920, 1502.610000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDG13", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDG13\">SDG13<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.945490, 39.452700, 1499.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDG14", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDG14\">SDG14<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.942450, 39.457870, 1495.930000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDH09", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDH09\">SDH09<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.969400, 39.428570, 1523.760000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDH10", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDH10\">SDH10<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.962900, 39.431070, 1520.990000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDH11", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDH11\">SDH11<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.956770, 39.434170, 1513.800000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDH12", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDH12\">SDH12<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.951150, 39.437820, 1505.200000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDH13", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDH13\">SDH13<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.946170, 39.441900, 1498.890000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDH14", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDH14\">SDH14<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.941800, 39.446460, 1491.670000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDH15", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDH15\">SDH15<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.938140, 39.451380, 1488.960000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SDH16", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SDH16\">SDH16<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.935290, 39.456550, 1482.110000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1131", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1131\">SD1131<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.926530, 39.453620, 1468.180000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1231", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1231\">SD1231<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.916960, 39.452990, 1455.750000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1130", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1130\">SD1130<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.927890, 39.442890, 1468.900000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1230", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1230\">SD1230<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.913960, 39.443120, 1449.270000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1330", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1330\">SD1330<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.900020, 39.443350, 1432.260000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1430", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1430\">SD1430<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.886080, 39.443580, 1417.710000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1530", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1530\">SD1530<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.872140, 39.443800, 1409.570000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1029", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1029\">SD1029<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.944660, 39.431950, 1498.910000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1129", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1129\">SD1129<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.928120, 39.431650, 1462.420000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1229", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1229\">SD1229<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.913660, 39.432310, 1443.670000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1329", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1329\">SD1329<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.899720, 39.432540, 1436.790000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1429", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1429\">SD1429<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.885790, 39.432770, 1435.680000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1529", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1529\">SD1529<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.871850, 39.432990, 1439.340000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0828", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0828\">SD0828<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.966880, 39.421580, 1514.980000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0928", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0928\">SD0928<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.955160, 39.420810, 1498.690000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1028", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1028\">SD1028<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.940060, 39.422670, 1478.550000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1128", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1128\">SD1128<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.927150, 39.421140, 1456.820000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1228", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1228\">SD1228<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.913560, 39.421470, 1438.480000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1328", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1328\">SD1328<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.900200, 39.421930, 1435.520000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0827", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0827\">SD0827<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.961560, 39.410430, 1506.120000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0927", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0927\">SD0927<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.955240, 39.409920, 1495.210000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1027", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1027\">SD1027<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.940930, 39.410240, 1469.620000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1127", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1127\">SD1127<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.927000, 39.410470, 1450.880000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD1227", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1227\">SD1227<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.913070, 39.410700, 1429.620000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0925", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0925\">SD0925<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.954260, 39.388390, 1486.830000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SD0926", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD0926\">SD0926<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -112.954560, 39.399200, 1489.640000 ] } }
+,
+{ "type": "Feature", 
+"properties": { "Name": "SD1026", "Description": "<a href=\"http:\/\/www.telescopearray.org\/blmfiles\/SDs\/SD1026\">SD1026<\/a>" }, 
+  "geometry": { "type": "Point", "coordinates": [ -112.940630, 39.399430, 1461.210000 ] } }
+
+]
+}
+
